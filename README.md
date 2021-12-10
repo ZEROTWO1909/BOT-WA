@@ -2,7 +2,7 @@
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=ZEROTWO1909/BOT-WA)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
@@ -41,14 +41,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & WABOT-AQ ]
+[ INSTALLING NODEJS & BOT-WA ]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Nurutomo/wabot-aq
-cd wabot-aq
+git clone ZEROTWO1909/BOT-WA
+cd BOT-WA
 npm install
 npm update
 ```
@@ -63,8 +63,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Nurutomo/wabot-aq
-cd wabot-aq
+git clone ZEROTWO1909/BOT-WA
+cd BOT-WA
 npm install
 npm update
 ```
